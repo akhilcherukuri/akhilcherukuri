@@ -4,8 +4,9 @@
 [![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/akhilcherukuri/)](https://github.com/akhilcherukuri/)
 [![Gitlab Badge](http://img.shields.io/badge/-GitLab-fca121?style=flat-square&logo=gitlab&link=https://gitlab.com/akhilcherukuri/)](https://gitlab.com/akhilcherukuri/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilcherukuri/)](https://www.linkedin.com/in/akhilcherukuri)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akhilcherukuri)](https://twitter.com/akhilcherukuri)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhilcherukuri@gmail.com)](mailto:akhilcherukuri@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/-@Akhil%20Cherukuri-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)](https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)](https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)
 
 <!--
 **akhilcherukuri/akhilcherukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
