@@ -1,4 +1,4 @@
-### Hi there 👋
+## नमस्ते (Namaste), I am [Akhil Cherukuri](http://akhilcherukuri.com)
 
 <!--
 **akhilcherukuri/akhilcherukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
