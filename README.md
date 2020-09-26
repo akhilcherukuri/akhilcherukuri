@@ -2,12 +2,12 @@
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/akhilcherukuri/)](https://github.com/akhilcherukuri/)
-[![Gitlab Badge](http://img.shields.io/badge/-GitLab-fca121?style=flat-square&logo=gitlab&link=https://gitlab.com/akhilcherukuri/)](https://gitlab.com/akhilcherukuri/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilcherukuri/)](https://www.linkedin.com/in/akhilcherukuri)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akhilcherukuri)](https://twitter.com/akhilcherukuri)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9321888/akhilcherukuri)](https://stackoverflow.com/users/9321888/akhilcherukuri)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:panzercherukuri@gmail.com)](mailto:panzercherukuri@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)](https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)
+[![Gitlab Badge](http://img.shields.io/badge/-GitLab-fca121?style=for-the-badge&logo=gitlab&link=https://gitlab.com/akhilcherukuri/)](https://gitlab.com/akhilcherukuri/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilcherukuri/)](https://www.linkedin.com/in/akhilcherukuri)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akhilcherukuri)](https://twitter.com/akhilcherukuri)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9321888/akhilcherukuri)](https://stackoverflow.com/users/9321888/akhilcherukuri)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:panzercherukuri@gmail.com)](mailto:panzercherukuri@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-c4302b?style=for-the-badge&logoColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)](https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/akhilcherukuri)](https://www.hackerrank.com/akhilcherukuri)
 
 ### A little about me... 👨‍💻
