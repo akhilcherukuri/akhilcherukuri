@@ -10,18 +10,21 @@
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-c4302b?style=for-the-badge&logoColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)](https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/akhilcherukuri)](https://www.hackerrank.com/akhilcherukuri)
 
-### A little about me... 👨‍💻
+### 👨‍💻 A little about me... 
 
 Currently a Computer Engineering Graduate Student at San Jose State University. I specialize in Embedded Systems. Seeking for a challenging position leading to a career in the embedded system software industry.
 
-Love to Travel, Take Pictures, and Edit.
+#### Hobbies
+- Photography 
+- Learning Machine Learning and Deep Learning for Autonomous Vehicles 
 
-Favorite Quote: “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+#### Favorite Quote
+ *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”*
 
 ### 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilcherukuri&show_icons=true&line_height=21" alt="Akhil's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcherukuri&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcherukuri&theme=default&line_height=21&layout=compact" />
 </p>
 
 <details>
