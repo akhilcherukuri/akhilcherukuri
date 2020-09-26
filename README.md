@@ -1,4 +1,6 @@
-## नमस्ते (Namaste)🙏🏻, I am [Akhil Cherukuri](http://akhilcherukuri.com)
+## नमस्ते (Namaste) 🙏🏻 , I am [Akhil Cherukuri](http://akhilcherukuri.com)
+
+[![YouTube Badge](https://img.shields.io/badge/-@Akhil%20Cherukuri-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)](https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)
 
 <!--
 **akhilcherukuri/akhilcherukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
