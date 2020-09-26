@@ -18,8 +18,20 @@ Love to Travel, Take Pictures, and Edit.
 
 Favorite Quote: “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
-
-
+<details>
+  <summary>More Stats</summary>
+<p align=center>
+  <a href="https://github.com/Terabyte17">
+    <img src="https://badges.pufler.dev/visits/akhilcherukuri/akhilcherukuri?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Terabyte17?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/akhilcherukuri?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
+</p>
+</details>
 
 <!--
 **akhilcherukuri/akhilcherukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
