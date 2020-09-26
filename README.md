@@ -1,5 +1,7 @@
 ## नमस्ते (Namaste) 🙏🏻 , I am [Akhil Cherukuri](http://akhilcherukuri.com)
 
+#### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-@akhilcherukuri-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/)
 [![YouTube Badge](https://img.shields.io/badge/-@Akhil%20Cherukuri-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)](https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)
 
 <!--
