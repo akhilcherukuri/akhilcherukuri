@@ -18,18 +18,21 @@ Love to Travel, Take Pictures, and Edit.
 
 Favorite Quote: “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
+### 🚀 Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilcherukuri&show_icons=true&line_height=21" alt="Akhil's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcherukuri&theme=default&line_height=27&layout=compact" />
+</p>
+
 <details>
   <summary>More Stats</summary>
 <p align=center>
-  <a href="https://github.com/Terabyte17">
+  <a href="https://github.com/akhilcherukuri">
     <img src="https://badges.pufler.dev/visits/akhilcherukuri/akhilcherukuri?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
+  <a href="https://github.com/akhilcherukuri?tab=repositories">
     <img src="https://badges.pufler.dev/repos/akhilcherukuri?style=flat-square&color=black&logo=github">
   </a>
-</p>
-<p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
 </p>
 </details>
 
