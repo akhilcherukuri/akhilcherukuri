@@ -23,7 +23,7 @@ Currently a Computer Engineering Graduate Student at San Jose State University. 
 
 ### 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilcherukuri&show_icons=true&line_height=21" alt="Akhil's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilcherukuri&include_all_commits=true&show_icons=true&line_height=21" alt="Akhil's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcherukuri&theme=default&line_height=21&layout=compact" />
 </p>
 
