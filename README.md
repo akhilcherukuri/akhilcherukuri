@@ -2,8 +2,8 @@
 
 ## नमस्ते (Namaste) 🙏🏻 , I am [Akhil Cherukuri](http://akhilcherukuri.com) 
 
+<h3 align="center"> Visitor Count </h3>
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/akhilcherukuri/count.svg" />
 </p>
 
@@ -29,6 +29,7 @@ Currently a Computer Engineering Graduate Student at San Jose State University. 
  *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”*
 
 ### 🚀 Quick Stats
+
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilcherukuri" alt="Akhil's Github Stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilcherukuri&theme=github-dark-blue&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="Akhil's Github Stats" />
 </p>
