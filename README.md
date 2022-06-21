@@ -1,4 +1,11 @@
-## नमस्ते (Namaste) 🙏🏻 , I am [Akhil Cherukuri](http://akhilcherukuri.com)
+![Akhil Cherukuri Banner Image](./banner_transparent.png)
+
+## नमस्ते (Namaste) 🙏🏻 , I am [Akhil Cherukuri](http://akhilcherukuri.com) 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/akhilcherukuri/count.svg" />
+</p>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/akhilcherukuri/)](https://github.com/akhilcherukuri/)
@@ -23,33 +30,5 @@ Currently a Computer Engineering Graduate Student at San Jose State University. 
 
 ### 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilcherukuri&hide=contribs,prs&show_icons=true&line_height=21" alt="Akhil's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcherukuri&theme=default&line_height=21&layout=compact" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilcherukuri" alt="Akhil's Github Stats" />
 </p>
-
-<details>
-  <summary>More Stats</summary>
-<p align=center>
-  <a href="https://github.com/akhilcherukuri">
-    <img src="https://badges.pufler.dev/visits/akhilcherukuri/akhilcherukuri?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/akhilcherukuri?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/akhilcherukuri?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-</details>
-
-<!--
-**akhilcherukuri/akhilcherukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
