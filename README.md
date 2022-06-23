@@ -7,24 +7,22 @@
   <img src="https://profile-counter.glitch.me/akhilcherukuri/count.svg" />
 </p>
 
+### 👨‍💻 A little about me... 
+
+Currently a Embedded Software Engineer in Test & Automation. Graduated with Masters in Computer Engineering at San Jose State University. Open for a challenging position and career in the embedded software industry.
+
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&link=https://github.com/akhilcherukuri/)](https://github.com/akhilcherukuri/)
 [![Gitlab Badge](http://img.shields.io/badge/-GitLab-fca121?style=for-the-badge&logo=gitlab&link=https://gitlab.com/akhilcherukuri/)](https://gitlab.com/akhilcherukuri/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilcherukuri/)](https://www.linkedin.com/in/akhilcherukuri)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/akhilcherukuri)](https://twitter.com/akhilcherukuri)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9321888/akhilcherukuri)](https://stackoverflow.com/users/9321888/akhilcherukuri)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/akhilcherukuri)](https://www.hackerrank.com/akhilcherukuri)
 
-### 👨‍💻 A little about me... 
 
-Currently a Computer Engineering Graduate Student at San Jose State University. I specialize in Embedded Systems. Seeking for a challenging position leading to a career in the embedded system software industry.
-
-#### Hobbies
-- Photography 
-- Learning Machine Learning and Deep Learning for Autonomous Vehicles 
-
-#### Favorite Quote
- *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”*
+### 🤸‍♂️ Hobbies
+- Gym 🔱
+- Photography 📸
+- Gaming 🎮
 
 ### 🚀 Quick Stats
 
