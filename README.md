@@ -13,8 +13,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilcherukuri/)](https://www.linkedin.com/in/akhilcherukuri)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/akhilcherukuri)](https://twitter.com/akhilcherukuri)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9321888/akhilcherukuri)](https://stackoverflow.com/users/9321888/akhilcherukuri)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:panzercherukuri@gmail.com)](mailto:panzercherukuri@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-c4302b?style=for-the-badge&logoColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)](https://www.youtube.com/channel/UCT6VCZKB5v9ddas_Br-qngA)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/akhilcherukuri)](https://www.hackerrank.com/akhilcherukuri)
 
 ### 👨‍💻 A little about me... 
