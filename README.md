@@ -16,7 +16,6 @@ Currently a Embedded Software Engineer in Test & Automation. Graduated with Mast
 [![Gitlab Badge](http://img.shields.io/badge/-GitLab-fca121?style=for-the-badge&logo=gitlab&link=https://gitlab.com/akhilcherukuri/)](https://gitlab.com/akhilcherukuri/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilcherukuri/)](https://www.linkedin.com/in/akhilcherukuri)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/akhilcherukuri)](https://twitter.com/akhilcherukuri)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9321888/akhilcherukuri)](https://stackoverflow.com/users/9321888/akhilcherukuri)
 
 ### 💻 What I code with
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
@@ -39,8 +38,9 @@ Currently a Embedded Software Engineer in Test & Automation. Graduated with Mast
 ![Photography](https://img.shields.io/badge/-Photography-0672CB?logo=Photobucket&logoColor=black&style=for-the-badge)
 ![Gaming](https://img.shields.io/badge/-Gaming-107C10?logo=Xbox&logoColor=black&style=for-the-badge)
 
-### 🚀 Quick Stats
-
+<details>
+  <summary><h3>🚀 GitHub Stats </h3></summary>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilcherukuri&theme=github-dark-blue&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="Akhil's Github Stats" />
 </p>
+</details>
