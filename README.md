@@ -18,6 +18,23 @@ Currently a Embedded Software Engineer in Test & Automation. Graduated with Mast
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/akhilcherukuri)](https://twitter.com/akhilcherukuri)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9321888/akhilcherukuri)](https://stackoverflow.com/users/9321888/akhilcherukuri)
 
+### 💻 What I code with
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=black&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=C&logoColor=black&style=for-the-badge)
+![Vim](https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=black&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=black&style=for-the-badge)
+![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=black&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=black&style=for-the-badge)
+![STMicroelectronics](https://img.shields.io/badge/-STM32-03234B?logo=STMicroelectronics&logoColor=black&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=black&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS%20IOT-232F3E?logo=Amazon%20AWS&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU%20Bash&logoColor=black&style=for-the-badge)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=black&style=for-the-badge)
+
+
 
 ### 🤸‍♂️ Hobbies
 - Gym 🔱
