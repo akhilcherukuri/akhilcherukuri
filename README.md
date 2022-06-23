@@ -34,12 +34,10 @@ Currently a Embedded Software Engineer in Test & Automation. Graduated with Mast
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU%20Bash&logoColor=black&style=for-the-badge)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=black&style=for-the-badge)
 
-
-
 ### 🤸‍♂️ Hobbies
-- Gym 🔱
-- Photography 📸
-- Gaming 🎮
+![Gym](https://img.shields.io/badge/-Gym-4285F4?logo=Google%20Fit&logoColor=black&style=for-the-badge)
+![Photography](https://img.shields.io/badge/-Photography-0672CB?logo=Photobucket&logoColor=black&style=for-the-badge)
+![Gaming](https://img.shields.io/badge/-Gaming-107C10?logo=Xbox&logoColor=black&style=for-the-badge)
 
 ### 🚀 Quick Stats
 
